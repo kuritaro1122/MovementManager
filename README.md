@@ -47,8 +47,8 @@ static (float, System.Action<MovementManager>)[] ConvertFlags<T>(T self, params 
 ```
 
 # Note
-flagが正しく動作しない可能性があります.
-パスの設定には[ICurve](https://github.com/kuritaro1122/Curve)インターフェースを実装したクラスを引数として渡す必要があります.
+flagが正しく動作しない可能性があります.\
+パスの設定には [ICurve](https://github.com/kuritaro1122/Curve) インターフェースを実装したクラスを引数として渡す必要があります.
 
 ### 関連
 * [ObjectOrderController](https://github.com/kuritaro1122/ObjectOrderController)
